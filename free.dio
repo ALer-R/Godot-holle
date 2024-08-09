@@ -1,0 +1,153 @@
+<mxfile host="65bd71144e">
+    <diagram id="Sj_Y0bYGGPxz3claRF7C" name="第 1 页">
+        <mxGraphModel dx="1045" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="8" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="238.6" y="386" width="500" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="" style="group" vertex="1" connectable="0" parent="8">
+                    <mxGeometry width="500" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="FreeSQL-Plus" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="21">
+                    <mxGeometry x="-35.71698113207547" y="-16" width="507.4150943396226" height="216" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="" style="group" vertex="1" connectable="0" parent="21">
+                    <mxGeometry y="40" width="133.92857142857142" height="144" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="25">
+                    <mxGeometry width="133.92857142857142" height="144" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="增强接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="25">
+                    <mxGeometry x="16.741071428571427" y="16" width="100.44642857142856" height="47.99999999999999" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="增强实现" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="25">
+                    <mxGeometry x="16.741071428571427" y="80" width="100.44642857142856" height="47.99999999999999" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="" style="group" vertex="1" connectable="0" parent="21">
+                    <mxGeometry x="178.57142857142856" y="40" width="276.7857142857142" height="144" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="22">
+                    <mxGeometry width="276.7857142857142" height="144" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="增强函数接口" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="22">
+                    <mxGeometry x="17.85714285714285" y="16" width="107.14285714285711" height="47.99999999999999" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="增强默认实现" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="22">
+                    <mxGeometry x="17.85714285714285" y="80" width="107.14285714285711" height="47.99999999999999" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="数据库客制化实现" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="22">
+                    <mxGeometry x="137.49999999999997" y="16" width="124.99999999999994" height="112" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="238.6" y="60" width="550" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="group" vertex="1" connectable="0" parent="27">
+                    <mxGeometry y="-15" width="550" height="225" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="FreeSQL-BASE" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="7">
+                    <mxGeometry x="-38.59649122807018" y="-15" width="588.5964912280701" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7">
+                    <mxGeometry y="15" width="154.3859649122807" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="基础接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7">
+                    <mxGeometry x="19.29824561403509" y="35" width="115.78947368421052" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="基础实现" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7">
+                    <mxGeometry x="19.29824561403509" y="115" width="115.78947368421052" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="" style="group" vertex="1" connectable="0" parent="7">
+                    <mxGeometry x="202.6315789473684" y="15" width="154.3859649122807" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="28">
+                    <mxGeometry width="154.3859649122807" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="基础函数接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="28">
+                    <mxGeometry x="19.29824561403509" y="20" width="115.78947368421053" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="基础函数实现" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="28">
+                    <mxGeometry x="19.29824561403509" y="100" width="115.78947368421053" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="数据库驱动" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="7">
+                    <mxGeometry x="395.6140350877193" y="15" width="106.14035087719299" height="175" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="Mysql" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7">
+                    <mxGeometry x="414.9122807017544" y="64" width="67.54385964912281" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="MSSql" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7">
+                    <mxGeometry x="414.9122807017544" y="85" width="67.54385964912281" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="Oracle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7">
+                    <mxGeometry x="414.9122807017544" y="107" width="67.54385964912281" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" value="PGSql" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7">
+                    <mxGeometry x="414.9122807017544" y="128" width="67.54385964912281" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="98" value="Custom" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7">
+                    <mxGeometry x="414.9122807017544" y="45" width="67.54385964912281" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="97" value="其它..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7">
+                    <mxGeometry x="414.9122807017544" y="153" width="67.54385964912281" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="group" vertex="1" connectable="0" parent="27">
+                    <mxGeometry x="202.6315789473684" width="154.3859649122807" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="12">
+                    <mxGeometry width="154.3859649122807" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="基础函数接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="12">
+                    <mxGeometry x="19.29824561403509" y="20" width="115.78947368421053" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="基础函数实现" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="12">
+                    <mxGeometry x="19.29824561403509" y="100" width="115.78947368421053" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="99" value="FreeSQL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="280" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="100" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="99">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="390" y="220" as="sourcePoint"/>
+                        <mxPoint x="200" y="150" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="150" y="310"/>
+                            <mxPoint x="150" y="150"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="101" value="" style="endArrow=classic;html=1;entryX=0.002;entryY=0.532;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="24">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="130" y="310" as="sourcePoint"/>
+                        <mxPoint x="200" y="490" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="160" y="310"/>
+                            <mxPoint x="160" y="485"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="102" value="ADO&lt;br&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="900" y="60" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="103" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="23" target="102">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="107" value="CRUD" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="900" y="110" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="109" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="23" target="107">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="112" value="JOIN" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="900" y="160" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="113" value="Lazy" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="900" y="200" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="114" value="&lt;span style=&quot;color: rgb(42, 43, 46); font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Arial, &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, 宋体, &amp;quot;Malgun Gothic&amp;quot;, sans-serif; font-size: 15px; font-weight: 600; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;DataMigration&lt;/span&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="900" y="240" width="120" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

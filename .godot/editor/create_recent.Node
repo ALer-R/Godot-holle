@@ -1,0 +1,14 @@
+CollisionShape3D
+Area3D
+Sprite3D
+StaticBody3D
+VBoxContainer
+Button
+MarginContainer
+TextureRect
+Label
+PanelContainer
+HBoxContainer
+Panel
+Camera3D
+Node

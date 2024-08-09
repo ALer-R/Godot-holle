@@ -1,0 +1,17 @@
+E:\SourceCode\MyCode\Godot\Tests\project-holle\.godot\mono\temp\bin\Debug\Project-holle.deps.json
+E:\SourceCode\MyCode\Godot\Tests\project-holle\.godot\mono\temp\bin\Debug\Project-holle.runtimeconfig.json
+E:\SourceCode\MyCode\Godot\Tests\project-holle\.godot\mono\temp\bin\Debug\Project-holle.dll
+E:\SourceCode\MyCode\Godot\Tests\project-holle\.godot\mono\temp\bin\Debug\Project-holle.pdb
+E:\SourceCode\MyCode\Godot\Tests\project-holle\.godot\mono\temp\bin\Debug\GodotSharp.dll
+E:\SourceCode\MyCode\Godot\Tests\project-holle\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+E:\SourceCode\MyCode\Godot\Tests\project-holle\.godot\mono\temp\obj\Debug\Project-holle.csproj.AssemblyReference.cache
+E:\SourceCode\MyCode\Godot\Tests\project-holle\.godot\mono\temp\obj\Debug\Project-holle.GeneratedMSBuildEditorConfig.editorconfig
+E:\SourceCode\MyCode\Godot\Tests\project-holle\.godot\mono\temp\obj\Debug\Project-holle.AssemblyInfoInputs.cache
+E:\SourceCode\MyCode\Godot\Tests\project-holle\.godot\mono\temp\obj\Debug\Project-holle.AssemblyInfo.cs
+E:\SourceCode\MyCode\Godot\Tests\project-holle\.godot\mono\temp\obj\Debug\Project-holle.csproj.CoreCompileInputs.cache
+E:\SourceCode\MyCode\Godot\Tests\project-holle\.godot\mono\temp\obj\Debug\Project-.584E39E2.Up2Date
+E:\SourceCode\MyCode\Godot\Tests\project-holle\.godot\mono\temp\obj\Debug\Project-holle.dll
+E:\SourceCode\MyCode\Godot\Tests\project-holle\.godot\mono\temp\obj\Debug\refint\Project-holle.dll
+E:\SourceCode\MyCode\Godot\Tests\project-holle\.godot\mono\temp\obj\Debug\Project-holle.pdb
+E:\SourceCode\MyCode\Godot\Tests\project-holle\.godot\mono\temp\obj\Debug\Project-holle.genruntimeconfig.cache
+E:\SourceCode\MyCode\Godot\Tests\project-holle\.godot\mono\temp\obj\Debug\ref\Project-holle.dll
