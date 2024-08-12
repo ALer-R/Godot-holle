@@ -94,11 +94,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\SourceCode\\MyCode\\Godot\\Tests\\project-holle\\Project-holle.csproj",
-      "projectName": "Project-holle",
-      "projectPath": "E:\\SourceCode\\MyCode\\Godot\\Tests\\project-holle\\Project-holle.csproj",
+      "projectUniqueName": "E:\\SourceCode\\MyCode\\Godot\\Tests\\Godot-holle\\Godot-holle.csproj",
+      "projectName": "Godot-holle",
+      "projectPath": "E:\\SourceCode\\MyCode\\Godot\\Tests\\Godot-holle\\Godot-holle.csproj",
       "packagesPath": "D:\\NuGet\\packages",
-      "outputPath": "E:\\SourceCode\\MyCode\\Godot\\Tests\\project-holle\\.godot\\mono\\temp\\obj\\",
+      "outputPath": "E:\\SourceCode\\MyCode\\Godot\\Tests\\Godot-holle\\.godot\\mono\\temp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Tools\\VisualStudio\\Shared\\NuGetPackages"
