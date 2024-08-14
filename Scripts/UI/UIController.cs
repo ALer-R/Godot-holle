@@ -2,7 +2,6 @@ using Godot;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Reflection.Metadata;
 
 public partial class UIController : Control
 {
@@ -13,7 +12,8 @@ public partial class UIController : Control
     {
         containers = GetChildren()
             .Where(element => element is UIContainer)
-            .Cast<UIContainer>().ToDictionary(element => element.container);
+            .Cast<UIContainer>()
+            .ToDictionary(element => element.container);
 
         containers[ContainerType.Start].Visible = true;
 

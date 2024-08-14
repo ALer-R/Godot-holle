@@ -338,7 +338,7 @@ grow_vertical = 2
 theme_override_styles/panel = SubResource("StyleBoxTexture_08dfi")
 script = ExtResource("1_q78hq")
 container = 5
-ButtonNode = NodePath("../Pause/MarginContainer/VBoxContainer/Button")
+ButtonNode = NodePath("MarginContainer/VBoxContainer/VBoxContainer/Button")
 TextureNode = NodePath("MarginContainer/VBoxContainer/VBoxContainer/TextureRect")
 LabelNode = NodePath("MarginContainer/VBoxContainer/VBoxContainer/RewardText")
 

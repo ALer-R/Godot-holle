@@ -22,7 +22,6 @@ public partial class Player : Character
 	{
 		StatResource targetStat = GetStatResource(resource.TargetStat);
 		targetStat.StatValue += resource.Amount;
-
 	}
 
 }
